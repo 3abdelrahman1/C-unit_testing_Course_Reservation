@@ -1,0 +1,32 @@
+﻿  Tests.c
+C:\Users\abdu\Desktop\final_project\Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'Test/Tests.c')
+      C:\Users\abdu\Desktop\final_project\Final_Project\Generic\System_info.h(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(304,22): warning C4013: 'Customer_Runner' undefined; assuming extern returning int
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(378,153): warning C4047: 'function': 'int *' differs in levels of indirection from 'unsigned int'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(378,153): warning C4024: 'Verify_User_test': different types for formal and actual parameter 3
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(379,153): warning C4047: 'function': 'int *' differs in levels of indirection from 'unsigned int'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(379,153): warning C4024: 'Verify_User_test': different types for formal and actual parameter 3
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(539,66): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(539,79): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(540,68): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(540,81): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(541,46): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(541,59): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(542,46): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(542,59): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(543,46): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(543,59): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(544,46): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(544,59): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(545,46): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(545,59): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(546,46): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(546,59): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(547,46): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(547,59): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(156,1): warning C4716: 'Accounts': must return a value
+C:\Users\abdu\Desktop\final_project\Final_Project\Test\Tests.c(164,1): warning C4716: 'Accounts2': must return a value
+  Final_Project.vcxproj -> C:\Users\abdu\Desktop\final_project\Final_Project\x64\Debug\Final_Project.exe
